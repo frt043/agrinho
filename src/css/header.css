@@ -23,3 +23,9 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+#navlogo {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #e9a209;
+}
