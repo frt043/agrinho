@@ -29,3 +29,10 @@ header {
     font-weight: 600;
     color: #e9a209;
 }
+
+.navlista {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+
+}
