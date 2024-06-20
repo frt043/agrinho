@@ -34,5 +34,12 @@ header {
     display: flex;
     list-style: none;
     gap: 40px;
+    
+}
 
+.navintem a {
+    text-decoration: none;
+    color: #1d1d1dad;
+    font-size: 1.2rem;
+    font-weight: 600;
 }
