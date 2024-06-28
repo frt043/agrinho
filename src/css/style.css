@@ -1,0 +1,12 @@
+body{
+    background-color: #fff9ea;
+}
+
+.btn-pedido{
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffcb45;
+    
+}
