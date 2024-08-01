@@ -2,6 +2,10 @@ body{
     background-color: #fff9ea;
 }
 
+section {
+    padding: 28px 8%;
+}
+
 .btn-pedido{
     border: none;
     display: flex;
