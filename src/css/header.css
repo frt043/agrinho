@@ -53,3 +53,43 @@ header {
     border-bottom: 3px solid #ffe100;
 }
 
+.btn-celular {
+    display: none;
+}
+
+.navcelular {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .navlista, .navbar .btn-pedido {
+        display: none;
+    }
+
+    .btn-celular {
+        display: block;
+        border: none;
+        background-color: transparent;
+        font-size: 1.5rem;
+        color: #e9a209;
+        cursor: pointer;
+    }
+}
+
+.navcelular.ativo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.celularnavlista {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 12px 0;
+}
+
+.celularnavlista .navitem {
+    list-style: none;
+    align-items: center;
+}
