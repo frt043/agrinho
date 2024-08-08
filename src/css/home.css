@@ -9,7 +9,6 @@
     flex-direction: column;
     gap: 28px;
     margin-top: 5%;
-
 }
 
 .inicial .titulo {
@@ -17,6 +16,6 @@
     color: #1d1d1d;
 }
 
-#voce {
+.inicial .titulo span {
     color: #ffcb45;
 }
