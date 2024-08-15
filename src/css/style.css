@@ -1,5 +1,5 @@
 body {
-    background-color: #b93939;
+    background-color: #3cbeb8;
 }
 
 section {
@@ -12,7 +12,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #a71207;
+    background-color: #c5574f;
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
