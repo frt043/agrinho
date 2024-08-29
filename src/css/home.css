@@ -19,3 +19,6 @@
 .inicial .titulo span {
     color: var(--cor-primaria-1);
 }
+.descricao {
+    color: #EDF6F9;
+}
