@@ -5,12 +5,12 @@
     --cor-primaria-4: #16324F;
     --cor-primaria-5: #18435A;
 
---cor-neutra-1:
---cor-neutra-2: 
+--cor-neutra-1: #fff;
+--cor-neutra-2: #1d1d1d;
 }
 
 body {
-    background-color: #b3bdec;
+    background-color: var(--cor-primaria-5);
 }
 
 section {
@@ -23,7 +23,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #c5574f;
+    background-color: var(--cor-primaria-2);
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
@@ -32,5 +32,5 @@ section {
 }
 
 .btn-pedido:hover {
-    background-color: #b42a2a;
+    background-color: var(--cor-primaria-1);
 }
