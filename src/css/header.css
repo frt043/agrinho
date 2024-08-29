@@ -42,12 +42,12 @@ header {
 }
 
 .navitem a:hover {
-    color: #ffe100;
+    color: var(--cor-primaria-2);
 }
 
 .navitem.ativo {
     color: #1d1d1d;
-    border-bottom: 3px solid #ffe100;
+    border-bottom: 3px solid var(--cor-primaria-2);
 }
 
 .btn-celular {
@@ -68,7 +68,7 @@ header {
         border: none;
         background-color: transparent;
         font-size: 1.5rem;
-        color: #e9a209;
+        color: var(--cor-primaria-2);
         cursor: pointer;
     }
 }
