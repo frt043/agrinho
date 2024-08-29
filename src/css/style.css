@@ -19,6 +19,8 @@ section {
 }
 
 .btn-pedido {
+    text-decoration: none;
+    color: var(--cor-neutra-1);
     border: none;
     display: flex;
     align-items: center;
