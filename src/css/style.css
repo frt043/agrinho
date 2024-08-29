@@ -1,3 +1,14 @@
+:root {
+    --cor-primaria-1: #3E92CC;
+    --cor-primaria-2: #2A628F;
+    --cor-primaria-3: #13293D;
+    --cor-primaria-4: #16324F;
+    --cor-primaria-5: #18435A;
+
+--cor-neutra-1:
+--cor-neutra-2: 
+}
+
 body {
     background-color: #b3bdec;
 }
