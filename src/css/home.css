@@ -19,6 +19,15 @@
 .inicial .titulo span {
     color: var(--cor-primaria-1);
 }
+
+#banner img {
+display: flex;
+justify-content: end;
+align-items: end;
+width: 70%;
+}
+
+
 .descricao {
     color: #9EB3C2;
 }
