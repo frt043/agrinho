@@ -27,6 +27,12 @@ align-items: end;
 width: 70%;
 }
 
+#banner img {
+    width: fit-content;
+    height: 70%;
+    margin-bottom: 150px;
+}
+
 
 .descricao {
     color: #9EB3C2;
