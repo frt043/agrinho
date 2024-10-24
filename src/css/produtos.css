@@ -5,3 +5,29 @@
    justify-content: center;
    min-height: 100vh;
 }
+
+.produtos {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+    margin-top: 32px;
+}
+
+.produto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+    padding: 20px;
+    background-color: azure;
+    border-radius: 20px;
+    box-shadow: 0px 0px 12px 4px rgba(0, 0, 0, 0.1);
+}
+
+.produto_img {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
