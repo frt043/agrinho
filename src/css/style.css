@@ -36,3 +36,13 @@ section {
 .btn-pedido:hover {
     background-color: var(--cor-primaria-1);
 }
+
+.section_titulo {
+    color: #3E92CC;
+    font-size: 1.6rem;
+}
+
+.section_subtitulo {
+    font-size: 2.2rem;
+}
+
