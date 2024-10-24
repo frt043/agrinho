@@ -65,3 +65,27 @@
     font-weight: 800;
 }
 
+.btn_pedido_whats {
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #054e11;
+    color: white;
+    border-radius: 12px;
+    padding: 10px 14px;
+    font-weight: 600;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn_pedido_whats:hover {
+    background-color: #09801b;
+}
+
+.btn_pedido_whats a {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
