@@ -65,7 +65,7 @@
     font-weight: 800;
 }
 
-.btn_pedido_whats {
+.btn_pedido_whatsapp {
     border: none;
     display: flex;
     align-items: center;
@@ -80,11 +80,11 @@
     transition: background-color 0.3s ease;
 }
 
-.btn_pedido_whats:hover {
+.btn_pedido_whatsapp:hover {
     background-color: #09801b;
 }
 
-.btn_pedido_whats a {
+.btn_pedido_whatsapp a {
     text-decoration: none;
     color: white;
     cursor: pointer;
